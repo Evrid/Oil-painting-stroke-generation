@@ -34,7 +34,7 @@ after begin, it ask you to select an image, best be small like 35k, too big take
 %neighborhood to find the nearby point with the greatest error
 %and paint at this location.
 
-output will be in the 'text.txt' will be [x-tipX, y-tipY, x+tipX, y+tipY, GotR, GotG, GotB]
+output will be in the 'text.txt' will be [StartPointX, StartPointY, EndPointX, EndPointY, GotR, GotG, GotB]
 
 ----------------------------------
 MakeStrokeFinalVersion1SameColorTogether.m
@@ -62,7 +62,7 @@ after begin, it ask you to select an image, best be small like 35k, too big take
 %you can also reduce the color of your image first
 
 
-output will be in the 'text.txt' with [x-tipX, y-tipY, x+tipX, y+tipY, GotR, GotG, GotB, UseR, UseG, UseB]
+output will be in the 'text.txt' with [StartPointX, StartPointY, EndPointX, EndPointY, GotR, GotG, GotB, UseR, UseG, UseB]
 
 
 
