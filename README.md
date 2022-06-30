@@ -3,6 +3,9 @@
 % parts code from Painterly Rendering with Curved Brush Strokes of Multiple Sizes
 %https://github.com/fionazeng3/Painterly-Rendering-with-Curved-Brush-Strokes-of-Multiple-Sizes
 
+It generate strokes with start and end point with color from a picture, the points can be used in robotarm or CNC to actually paint it.
+
+
 Required:
     MATLAB R2022a or later
     Image Processing Toolbox
