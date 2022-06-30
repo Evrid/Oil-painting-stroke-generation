@@ -14,7 +14,7 @@ Required:
 MakeStrokeFinalVersion2DifferentColor.m
 
 The result see
-https://www.youtube.com/watch?v=Jvlrhmp9AHA
+https://www.youtube.com/watch?v=cV7cfhHnwPc
 and 'result of MakeStrokeFinalVersion2DifferentColor.png'
 
 after begin, it ask you to select an image, best be small like 35k, too big take too long time, you can choose 'reduced8colors.JPG'
