@@ -17,6 +17,7 @@ The result see
 https://www.youtube.com/watch?v=Jvlrhmp9AHA
 and 'result of MakeStrokeFinalVersion2DifferentColor.png'
 
+after begin, it ask you to select an image, best be small like 35k, too big take too long time, you can choose 'reduced8colors.JPG'
 
 %% paint
 %At the highest level of this painting algorithm, I first created an empty canvas. Using a for loop, 
@@ -30,11 +31,14 @@ and 'result of MakeStrokeFinalVersion2DifferentColor.png'
 %neighborhood to find the nearby point with the greatest error
 %and paint at this location.
 
+output will be in the 'text.txt' will be [x-tipX, y-tipY, x+tipX, y+tipY, GotR, GotG, GotB]
 
 ----------------------------------
 MakeStrokeFinalVersion1SameColorTogether.m
 
 the result see 'MakeStrokeFinalVersion1SameColorTogether.jpg'
+
+after begin, it ask you to select an image, best be small like 35k, too big take too long time, you can choose 'reduced8colors.JPG'
 
 %% paint
 %At the highest level of this painting algorithm, I first created an empty canvas. Using a for loop, 
@@ -55,6 +59,7 @@ the result see 'MakeStrokeFinalVersion1SameColorTogether.jpg'
 %you can also reduce the color of your image first
 
 
+output will be in the 'text.txt' with [x-tipX, y-tipY, x+tipX, y+tipY, GotR, GotG, GotB, UseR, UseG, UseB]
 
 
 
