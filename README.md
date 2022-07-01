@@ -17,6 +17,7 @@ Required:
 
 ----------------------------------
 MakeStrokeFinalVersion2DifferentColor.m
+
 in this file, the order of stroke is not by color.
 
 The result see
@@ -41,7 +42,8 @@ output will be in the 'text.txt' will be [StartPointX, StartPointY, EndPointX, E
 
 ----------------------------------
 MakeStrokeFinalVersion1SameColorTogether.m
-in this file, the order of stroke is by color and with standardized color.
+
+in this file, the order of stroke is by color and is drawn with standardized color.
 
 the result see 'MakeStrokeFinalVersion1SameColorTogether.jpg'
 
