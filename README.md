@@ -71,6 +71,14 @@ after begin, it ask you to select an image, best be small like 35k, too big take
 output will be in the 'text.txt' with [StartPointX, StartPointY, EndPointX, EndPointY, GotR, GotG, GotB, UseR, UseG, UseB]
 
 ----------------------------------
+MakeStrokeFinal3SameColorTogetherOwnColor.m
+
+basically the same as MakeStrokeFinalVersion1SameColorTogether.m, just draw use their own color, the order of stroke is by still by color but not standerdized color (if so then we first detect which color is needed in the picture then mix them ourself)  
+
+result see 'result of MakeStrokeFinal3SameColorTogetherOwnColor.JPG'
+and 'result of MakeStrokeFinal3SameColorTogetherOwnColor-2.JPG'
+
+----------------------------------
 Some other similar projects:
 
 ERB322 Oil Painting Robot
