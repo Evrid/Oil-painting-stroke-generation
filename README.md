@@ -4,6 +4,7 @@
 %https://github.com/fionazeng3/Painterly-Rendering-with-Curved-Brush-Strokes-of-Multiple-Sizes
 
 It generate strokes with start and end point with color from a picture, the points can be used in robotarm or CNC to actually paint it.
+Best first reduce the number of color an image has using  https://onlinejpgtools.com/reduce-jpg-colors
 
 
 Required:
@@ -63,6 +64,39 @@ after begin, it ask you to select an image, best be small like 35k, too big take
 
 
 output will be in the 'text.txt' with [StartPointX, StartPointY, EndPointX, EndPointY, GotR, GotG, GotB, UseR, UseG, UseB]
+
+----------------------------------
+Some other similar projects:
+
+ERB322 Oil Painting Robot
+https://www.youtube.com/watch?v=2okNLX5593A
+
+If ( ) Then {Paint}
+https://hackaday.io/project/166524-if-then-paint
+
+IfThenPaint_Image2Gcode
+https://github.com/johnopsahl/IfThenPaint_Image2Gcode
+
+----------------------------------
+other useful links
+
+png color replacer
+https://onlinepngtools.com/change-png-color
+
+image compressor
+https://imagecompressor.com/
+
+image color picker
+https://pinetools.com/image-color-picker
+
+RGB color
+https://www.rapidtables.com/web/color/RGB_Color.html
+
+
+
+
+
+
 
 
 
