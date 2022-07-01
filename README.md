@@ -4,6 +4,7 @@
 %https://github.com/fionazeng3/Painterly-Rendering-with-Curved-Brush-Strokes-of-Multiple-Sizes
 
 It generate strokes with start and end point with color from a picture, the points can be used in robotarm or CNC to actually paint it.
+
 Best first reduce the number of color an image has using  https://onlinejpgtools.com/reduce-jpg-colors
 
 
@@ -16,6 +17,7 @@ Required:
 
 ----------------------------------
 MakeStrokeFinalVersion2DifferentColor.m
+in this file, the order of stroke is not by color.
 
 The result see
 https://www.youtube.com/watch?v=cV7cfhHnwPc
@@ -39,6 +41,7 @@ output will be in the 'text.txt' will be [StartPointX, StartPointY, EndPointX, E
 
 ----------------------------------
 MakeStrokeFinalVersion1SameColorTogether.m
+in this file, the order of stroke is by color and with standardized color.
 
 the result see 'MakeStrokeFinalVersion1SameColorTogether.jpg'
 
